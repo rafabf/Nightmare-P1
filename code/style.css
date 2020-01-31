@@ -1,0 +1,31 @@
+body {
+  padding:0;
+  background-image: url("maxresdefault.jpg");
+  background-repeat: no-repeat;
+background-size: cover  ;
+}
+
+
+.logo-img {
+   
+  
+    width: 300px;
+}
+
+h1{
+    color: rgb(168, 8, 8);
+    text-align: center;
+    text-transform: unset;
+    font-size: 190px;
+}
+a{
+  
+  margin-left: 800PX;
+  font-size: 50px;
+  border-radius:2%;
+  color: rgb(255, 0, 0);
+  
+  
+  text-align: center  ;
+}
+
